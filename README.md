@@ -23,12 +23,12 @@ Since this is an exploit, you should expect getting detections in some cases.
 What do I need to run Cylode on my Computer?
 ============================================
 
-The webclient version of Roblox which you can get here: www.roblox.com/download
-A 64-bit installation of Windows 10 (or Windows 11): https://www.microsoft.com/en-us/software-download/windows10
-.NET Framework 4.7.2+ : https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-web-installer
-VC Redist x64  : https://aka.ms/vs/16/release/vc_redist.x64.exe
-VC Redist x86 : https://aka.ms/vs/16/release/vc_redist.x86.exe
-The Cylode cInstaller
+The webclient version of Roblox which you can get here: www.roblox.com/download <br>
+A 64-bit installation of Windows 10 (or Windows 11): https://www.microsoft.com/en-us/software-download/windows10 <br>
+.NET Framework 4.7.2+ : https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net472-web-installer <br>
+VC Redist x64  : https://aka.ms/vs/16/release/vc_redist.x64.exe <br>
+VC Redist x86 : https://aka.ms/vs/16/release/vc_redist.x86.exe <br>
+The Cylode cInstaller <br>
 
 
 My Anti-Virus / Windows Defender keeps deleting Cylode.
