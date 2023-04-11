@@ -5,6 +5,23 @@ A new beginning in ROBLOX exploits.
 Free, completely keyless.
 
 - - - 
+How To Install
+===============
+
+Method 1
+---------
+
+1. Download the Latest Version Of Cylode.
+2. Unzip File Anywhere On your Computer.
+3. Run Cylode From The Extracted ZIP File.
+4. Congrats!
+
+Method 2
+--------
+
+1. Install the Cylode Installer / Bootstrapper.
+2. Run It Anywhere On your Pc.
+3. It Should Automatically Install Cylode For you.
 
 
 FAQ
