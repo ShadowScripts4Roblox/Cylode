@@ -6,14 +6,19 @@ Free, completely keyless.
 
 - - - 
 
+
+FAQ
+===
+
+
 What is Cylode?
-===============
+---------------
 
 Cylode is a ROBLOX executor that is completely free, without a key. It has clean and polished UI that is easy on the eyes, and it provides you with a great and fun exploiting experience!
 
 
 Can I get banned for using Cylode?
-===================================
+---------------------------------------------
 
 Cylode doesn't usually get detected, and has systems to prevent detection, but it is never impossible.
 Since this is an exploit, you should expect getting detections in some cases.
@@ -21,7 +26,7 @@ Since this is an exploit, you should expect getting detections in some cases.
 
 
 What do I need to run Cylode on my Computer?
-============================================
+---------------------------------------------
 
 The webclient version of Roblox which you can get here: www.roblox.com/download <br>
 A 64-bit installation of Windows 10 (or Windows 11): https://www.microsoft.com/en-us/software-download/windows10 <br>
@@ -32,7 +37,7 @@ The Cylode cInstaller <br>
 
 
 My Anti-Virus / Windows Defender keeps deleting Cylode.
-======================================================
+------------------------------------------------------------
 
 Antiviruses usually mistake Roblox exploits as viruses due to their nature. Most if not all modern Roblox exploits work by injecting some sort of dll file into Roblox and running Lua code (Scripts) in the environment it creates.
 
